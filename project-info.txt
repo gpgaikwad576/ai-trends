@@ -1,3 +1,0 @@
-DBUSER -admin
-BDPassword - P@ssword
-git token - @12323&*
